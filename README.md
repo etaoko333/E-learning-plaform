@@ -6,26 +6,26 @@ Deploying an E-Learning Platform with Terraform! 🎓🚀 Today, I'm thrilled to
 
 ![image](https://github.com/user-attachments/assets/27cc7186-0170-4472-8712-e962eb0ce4cf)
 
+**clone the repository:**
 gitHub repo:https://github.com/etaoko333/E-learning-plaform.git
 blog:https://medium.com/@osenat.alonge/deploying-an-e-learning-platform-with-terraform-15ad6e607c67
 
-clone the repository:
-💡 Highlights of the Project:
-1️⃣ Internet Gateway: To provide internet access for resources in the VPC.
-2️⃣ Subnets: Separate public and private subnets for better security and resource segregation.
-3️⃣ Route Table: To control traffic routing within the VPC.
-4️⃣ Route Table Association: Linking subnets to their appropriate route tables.
-5 VPC (Virtual Private Cloud) 🌐
+💡** Highlights of the Project:**
+-  1️⃣ Internet Gateway: To provide internet access for resources in the VPC.
+-  2️⃣ Subnets: Separate public and private subnets for better security and resource segregation.
+-  3️⃣ Route Table: To control traffic routing within the VPC.
+-  4️⃣ Route Table Association: Linking subnets to their appropriate route tables.
+-  5 VPC (Virtual Private Cloud) 🌐
 
 
 🛠 Tools Used:
-1  Terraform: For Infrastructure as Code (IaC).
-2  AWS: As the cloud provider.
-3  GitHub: To version-control Terraform code.
-4  Visual Studio Code: For writing and managing Terraform files.
-5  AWS CLI: For initial configurations.
-6  This project leveraged Infrastructure as Code (IaC) to ensure automation, consistency, and ease of scaling. 📈
-7  Step-by-Step Guide:
+-  1  Terraform: For Infrastructure as Code (IaC).
+-  2  AWS: As the cloud provider.
+-  3  GitHub: To version-control Terraform code.
+-  4  Visual Studio Code: For writing and managing Terraform files.
+-  5  AWS CLI: For initial configurations.
+-  6  This project leveraged Infrastructure as Code (IaC) to ensure automation, consistency, and ease of scaling. 📈
+-  7  Step-by-Step Guide:
 
 **Set Up Your Environment** 🌍
 
